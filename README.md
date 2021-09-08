@@ -85,7 +85,7 @@ Although these utilities are unsupported, please let us know if you have any pro
 Unless explicitly stated otherwise this extension is only supported on the same platforms as the APM core agent. See [APM Compatibility Guide](https://techdocs.broadcom.com/us/product-content/status/compatibility-matrix/application-performance-management-compatibility-guide.html).
 
 ### Support URL
-https://github.com/CA-APM/APM-uma-javascript-calculatorissues
+https://github.com/CA-APM/ca-apm-uma-calculator/issues
 
 # Contributing
 The [DX APM Community](https://community.broadcom.com/enterprisesoftware/communities/communityhomeblogs?CommunityKey=be08e336-5d32-4176-96fe-a778ffe72115) is the primary means of interfacing with other users and with the CA APM product team.
